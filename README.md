@@ -16,6 +16,6 @@ You can run the project (app.py) with python command : "python app.py" or run it
 
 It also possible to run with Docker, for that you have just to use the Dockerfile in the repository and import it into Docker.
 
-# Add a License
+# License
 
 This project doesn't have licence.
